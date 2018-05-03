@@ -1,0 +1,10 @@
+D:\NinoD\Documents\Random projects\C#\bin\Debug\netcoreapp2.0\C#.deps.json
+D:\NinoD\Documents\Random projects\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.json
+D:\NinoD\Documents\Random projects\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.dev.json
+D:\NinoD\Documents\Random projects\C#\bin\Debug\netcoreapp2.0\C#.dll
+D:\NinoD\Documents\Random projects\C#\bin\Debug\netcoreapp2.0\C#.pdb
+D:\NinoD\Documents\Random projects\C#\obj\Debug\netcoreapp2.0\C#.csproj.CoreCompileInputs.cache
+D:\NinoD\Documents\Random projects\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfoInputs.cache
+D:\NinoD\Documents\Random projects\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfo.cs
+D:\NinoD\Documents\Random projects\C#\obj\Debug\netcoreapp2.0\C#.dll
+D:\NinoD\Documents\Random projects\C#\obj\Debug\netcoreapp2.0\C#.pdb
